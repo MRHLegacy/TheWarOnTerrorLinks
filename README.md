@@ -36,4 +36,4 @@ Reference sheet for the video "The War on Terror"
   32) https://reliefweb.int/sites/reliefweb.int/files/resources/A2E2603E5DC88A4685256825005F211D-garfie17.pdf
   33) https://fair.org/extra/we-think-the-price-is-worth-it/
   34) https://www.pbs.org/wgbh/pages/frontline/shows/binladen/etc/cron.html
-  35) _Enough Already___ by Scott Horton, pg. 39
+  35) _Enough Already_ by Scott Horton, pg. 39
