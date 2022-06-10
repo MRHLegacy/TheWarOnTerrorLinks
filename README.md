@@ -52,3 +52,14 @@ Reference sheet for the video "The War on Terror"
   48) http://ronpaulquotes.com/Texas_Straight_Talk/tst.html
   49) https://web.archive.org/web/20080617121230/http://www.abc.net.au/4corners/atta/interviews/bodenstein.htm
   50) https://www.washingtonpost.com/archive/politics/2001/09/22/a-fanatics-quiet-path-to-terror/46c41a83-6d11-4d87-bf8d-f472243c6d27/
+
+# Afghanistan
+  1) https://www.theamericanconservative.com/articles/war-without-a-rationale/
+  2) https://www.washingtonpost.com/archive/politics/2001/11/23/afghan-roots-keep-adviser-firmly-in-the-inner-circle/c6b9faad-b756-452e-920d-fc8af39dfcdd/
+  3) https://www.esquire.com/news-politics/politics/a29001940/donald-rumsfeld-9-11-iraq-memo/
+  4) https://www.rferl.org/a/1097442.html
+  5) https://www.baltimoresun.com/bal-te.attacks15oct15-story.html
+  6) https://www.theguardian.com/world/2001/oct/17/afghanistan.terrorism11
+  7) https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020313-8.html
+  8) https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020313-8.html
+  9) _Bush At War_ by Bob Woodward, pg. 118
