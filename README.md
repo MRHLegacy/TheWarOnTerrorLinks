@@ -1,4 +1,4 @@
-# TheWarOnTerrorLinks
+# The War On Terror References
 Reference sheet for the video "The War on Terror"
 
 # Preliminary Wars
