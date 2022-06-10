@@ -111,3 +111,4 @@ Reference sheet for the video "The War on Terror"
   43) https://www.theatlantic.com/international/archive/2011/02/a-note-on-egyptian-torture/70476/
   44) https://www.seattletimes.com/nation-world/former-cellmate-says-al-zarqawi-was-tortured-in-jordanian-prison/
   45) https://theintercept.com/2016/08/25/u-s-military-now-says-isis-leader-was-held-in-notorious-abu-ghraib-prison/
+  46) https://www.mcclatchydc.com/news/nation-world/world/article24511081.html
