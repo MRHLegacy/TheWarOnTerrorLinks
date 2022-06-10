@@ -63,3 +63,4 @@ Reference sheet for the video "The War on Terror"
   7) https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020313-8.html
   8) https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020313-8.html
   9) _Bush At War_ by Bob Woodward, pg. 118
+  10) https://www.rollingstone.com/politics/politics-news/osamas-prodigal-son-the-dark-twisted-journey-of-omar-bin-laden-199468/
