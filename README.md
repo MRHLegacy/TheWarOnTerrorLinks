@@ -37,3 +37,18 @@ Reference sheet for the video "The War on Terror"
   33) https://fair.org/extra/we-think-the-price-is-worth-it/
   34) https://www.pbs.org/wgbh/pages/frontline/shows/binladen/etc/cron.html
   35) _Enough Already_ by Scott Horton, pg. 39
+  36) https://www.nytimes.com/2003/09/22/world/the-struggle-for-iraq-last-american-combat-troops-quit-saudi-arabia.html
+  37) https://www.econlib.org/archives/2016/06/brennan_admits.html
+  38) https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/15-F-0940_DOC_02_the_Global_War_On_Terrorism_an_Assessment_December_2006.pdf
+  39) https://www.nytimes.com/1993/07/22/nyregion/cia-officers-played-role-in-sheik-visas.html
+  40) https://www.nonproliferation.org/wp-content/uploads/2016/05/world_trade_center_bombers.pdf
+  41) https://www.latimes.com/archives/la-xpm-1993-06-25-mn-7023-story.html
+  42) https://en.wikipedia.org/wiki/Bojinka_plot
+  43) https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings
+  44) https://en.wikipedia.org/wiki/Al-Shifa_pharmaceutical_factory
+  45) https://www.baltimoresun.com/news/bs-xpm-2000-11-01-0011010054-story.html
+  46) https://www.lewrockwell.com/2007/11/david-t-beito/why-ron-paul-is-right-about-terrorism-a-letter-to-the-gop-base/
+  47) https://www.congress.gov/congressional-record/1998/2/4/house-section/article/H244-7
+  48) http://ronpaulquotes.com/Texas_Straight_Talk/tst.html
+  49) https://web.archive.org/web/20080617121230/http://www.abc.net.au/4corners/atta/interviews/bodenstein.htm
+  50) https://www.washingtonpost.com/archive/politics/2001/09/22/a-fanatics-quiet-path-to-terror/46c41a83-6d11-4d87-bf8d-f472243c6d27/
