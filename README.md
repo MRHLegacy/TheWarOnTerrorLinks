@@ -64,3 +64,50 @@ Reference sheet for the video "The War on Terror"
   8) https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020313-8.html
   9) _Bush At War_ by Bob Woodward, pg. 118
   10) https://www.rollingstone.com/politics/politics-news/osamas-prodigal-son-the-dark-twisted-journey-of-omar-bin-laden-199468/
+
+# Iraq
+  1) https://www.chron.com/news/houston-texas/article/Writer-says-Bush-talked-about-war-in-1999-1975031.php
+  2) https://www.theguardian.com/commentisfree/cifamerica/2011/jun/08/dick-cheney-halliburton-supreme-court
+  3) https://www.nbcnews.com/id/wbna4400657
+  4) https://web.archive.org/web/20140125123844/http://www.iasps.org/strat1.htm
+  5) https://www.theguardian.com/world/2015/nov/04/ahmed-chalabi
+  6) https://www.theamericanconservative.com/articles/saving-feith/
+  7) https://www.wrmea.org/003-may/richard-perle-the-prince-of-darkness-resigns-after-accusations-of-profiteering.html
+  8) https://web.archive.org/web/20190902132332/https://www.rawstory.com/news/2005/Senate_Intelligence_Committee_stalling_prewar_intelligence_1202.html
+  9) https://www.theguardian.com/world/2003/jul/17/iraq.usa
+  10) https://www.theatlantic.com/politics/archive/2007/10/aipac-and-iraq/46561/
+  11) https://www.newyorker.com/magazine/2005/07/04/real-insiders
+  12) https://lobelog.com/aipac-bristles-at-obamas-reminder-of-iraq-war-lobbying/
+  13) https://web.archive.org/web/20021008124037/http:/aipac.org/Regional.PDF
+  14) https://www.ynetnews.com/articles/0,7340,L-3444393,00.html
+  15) https://www.theguardian.com/world/2002/aug/17/iraq.israel1
+  16) https://www.lrb.co.uk/the-paper/v28/n10/letters
+  17) https://www.washingtonpost.com/wp-srv/onpolitics/transcripts/senaterollcall_iraq101002.htm
+  18) https://www.cbsnews.com/news/transcript-president-bush-part-2/
+  19) https://www.pbs.org/wgbh/pages/frontline/shows/gunning/analyses/obl.html
+  20) https://web.archive.org/web/20060426082930/http://voanews.com/english/NewsAnalysis/2006-04-19-voa60.cfm
+  21) https://www.nytimes.com/2003/11/05/international/worldspecial/baghdad-scrambled-to-offer-deal-to-us-as-war.html
+  22) https://ips-dc.org/iraq_the_failures_of_democratization/
+  23) https://www.cnn.com/2004/LAW/01/19/findlaw.analysis.dorf.elections/
+  24) https://www.youtube.com/watch?v=QFgcqB8-AxE
+  25) https://www.orlandosentinel.com/news/os-xpm-2004-02-27-0402270096-story.html
+  26) https://www.nytimes.com/2010/02/21/world/middleeast/21iraq.html
+  27) https://en.wikipedia.org/wiki/December_2005_Iraqi_parliamentary_election
+  28) https://en.wikipedia.org/wiki/First_Battle_of_Fallujah
+  29) https://en.wikipedia.org/wiki/Second_Battle_of_Fallujah
+  30) https://www.theguardian.com/world/2013/mar/06/el-salvador-iraq-police-squads-washington
+  31) https://www.latimes.com/archives/la-xpm-2006-sep-28-fg-intel28-story.html
+  32) https://www.youtube.com/watch?v=kFkoEuzHSmU
+  33) https://www.theguardian.com/world/2010/oct/22/iraq-detainee-abuse-torture-saddam
+  34) https://slate.com/news-and-politics/2009/03/the-flypaper-theory.html
+  35) https://www.nytimes.com/2006/06/08/world/middleeast/08cnd-iraq.html
+  36) https://en.wikipedia.org/wiki/Islamic_State
+  37) http://news.bbc.co.uk/2/hi/europe/6360817.stm
+  38) https://www.therenditionproject.org.uk/prisoners/binyam-mohamed.html
+  39) https://www.theguardian.com/uk/2009/feb/23/binyam-mohamed-guantanamo-plane-lands
+  40) https://www.salon.com/2004/07/15/hersh_7/
+  41) https://archive.thinkprogress.org/ex-state-dept-official-hundreds-of-detainees-died-in-u-s-custody-at-least-25-murdered-3cf5e9fd5922/
+  42) https://collateralmurder.wikileaks.org/
+  43) https://www.theatlantic.com/international/archive/2011/02/a-note-on-egyptian-torture/70476/
+  44) https://www.seattletimes.com/nation-world/former-cellmate-says-al-zarqawi-was-tortured-in-jordanian-prison/
+  45) https://theintercept.com/2016/08/25/u-s-military-now-says-isis-leader-was-held-in-notorious-abu-ghraib-prison/
