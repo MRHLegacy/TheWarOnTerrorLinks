@@ -179,4 +179,44 @@ Reference sheet for the video "The War on Terror"
   25) https://www.bbc.com/news/world-asia-18334377
   26) https://www.cnn.com/2012/09/12/world/africa/libya-attack-jihadists/index.html
  # Syria
-  1) 
+  1) https://www.wsj.com/articles/SB10000872396390444025204577544891777555840
+  2) https://www.theguardian.com/world/2011/aug/31/extraordinary-rendition-backstory
+  3) https://www.amnesty.ca/legal-brief/case-maher-arar/
+  4) https://www.newyorker.com/magazine/2007/03/05/the-redirection
+  5) https://www.theatlantic.com/international/archive/2012/03/obama-to-iran-and-israel-as-president-of-the-united-states-i-dont-bluff/253875/
+  6) https://www.reuters.com/article/us-usa-syria-obama-order/obama-authorizes-secret-support-for-syrian-rebels-idUSBRE8701OK20120802
+  7) https://theintercept.com/2017/10/24/syria-rebels-nsa-saudi-prince-assad/
+  8) https://www.nytimes.com/2012/12/09/world/middleeast/syrian-rebels-tied-to-al-qaeda-play-key-role-in-war.html
+  9) https://wikileaks.org/clinton-emails/emailid/23225
+  10) https://www.washingtonpost.com/politics/hillary-clinton-backs-obama-on-syria-strikes/2013/09/09/f697ecc6-196f-11e3-a628-7e6dde8f889d_story.html
+  11) https://www.thecairoreview.com/essays/hillary-the-hawk/
+  12) https://archive.org/stream/ReeseErlichForwardNoamChomskyInsideSyriaTheBackstoryOfTheirCivilWarAndWhatTheWorldCanExpect/Reese%20Erlich%2C%20Forward%20Noam%20Chomsky%20Inside%20Syria%20The%20Backstory%20of%20Their%20Civil%20War%20and%20What%20the%20World%20Can%20Expect_djvu.txt
+  13) https://cisac.fsi.stanford.edu/mappingmilitants/profiles/hayat-tahrir-al-sham
+  14) https://www.rand.org/blog/2017/10/the-moderate-face-of-al-qaeda.html
+  15) https://www.foreignaffairs.com/articles/syria/2014-01-23/good-and-bad-ahrar-al-sham
+  16) https://www.foreignaffairs.com/articles/middle-east/2015-03-09/accepting-al-qaeda
+  17) https://www.hrw.org/news/2012/07/03/syria-torture-centers-revealed#
+  18) https://situ.nyc/research/projects/syria-torture-centers-revealed
+  19) https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=14938&LangID=E 
+  20) https://www.washingtoninstitute.org/media/4698
+  21) http://s.telegraph.co.uk/graphics/projects/isis-jihad-syria-assad-islamic/index.html
+  22) https://www.nytimes.com/2017/08/02/world/middleeast/cia-syria-rebel-arm-train-trump.html
+  23) https://www.davidstockmanscontracorner.com/senator-mccains-pals-in-the-northern-storm-brigade-they-sold-sotloffs-head-to-isis-for-25k/
+  24) https://www.joshualandis.com/blog/northern-storm-brigade-history-current-status-matters-chris-looney/
+  25) https://www.nytimes.com/2014/08/09/opinion/president-obama-thomas-l-friedman-iraq-and-world-affairs.html 
+  26) https://obamawhitehouse.archives.gov/the-press-office/2012/08/20/remarks-president-white-house-press-corps
+  27) https://archive.fo/hH0od
+  28) https://www.brookings.edu/opinions/source-u-s-couldnt-nail-down-chemical-weapons-chain-of-custody/
+  29) https://truthout.org/articles/how-intelligence-was-twisted-to-support-an-attack-on-syria/ 
+  30) https://apnews.com/article/9d8d61c024e1455ea8067e26f7f7309a
+  31) https://www.reuters.com/article/uk-syria-crisis-un-investigation/syrian-envoy-alleges-rebel-gas-attack-demands-u-n-investigate-idUKBRE97R10X20130828
+  32) https://web.archive.org/web/20140307130430/http://www.mcclatchydc.com/2013/09/05/201269/russia-says-it-has-compiled-a.html
+  33) https://www.wsj.com/articles/SB10001424127887324906304579039342815115978
+  34) https://rootclaim-media.s3.amazonaws.com/syria2013evidence.pdf
+  35) https://www.independent.co.uk/news/world/americas/donald-trump-syria-air-strikes-chemcial-attack-airbase-cruise-missiles-tomohawks-bashar-al-assad-russia-putin-a7671816.html
+  36) https://wikileaks.org/opcw-douma/
+  37) https://www.thenation.com/article/world/opcw-leaks-syria/
+  38) https://wikileaks.org/opcw-douma/document/actual_toxicology_meeting_redacted/
+  39) https://www.lrb.co.uk/the-paper/v38/n01/seymour-m.-hersh/military-to-military 
+  40) https://www.longwarjournal.org/archives/2014/02/zawahiris_chief_repr.php
+# Iraq War III
