@@ -220,3 +220,33 @@ Reference sheet for the video "The War on Terror"
   39) https://www.lrb.co.uk/the-paper/v38/n01/seymour-m.-hersh/military-to-military 
   40) https://www.longwarjournal.org/archives/2014/02/zawahiris_chief_repr.php
 # Iraq War III
+  1) https://en.wikipedia.org/wiki/Fall_of_Mosul
+  2) https://www.nytimes.com/2014/08/09/opinion/president-obama-thomas-l-friedman-iraq-and-world-affairs.html
+  3) https://original.antiwar.com/ted_snider/2014/08/13/the-american-response-to-isis-theyrepatterns-notcoincidences/ 
+  4) https://medium.com/dan-sanchez/the-us-government-s-not-so-secret-support-for-al-qaeda-and-isis-f547b8593b0b
+  5) https://www.timesofisrael.com/yaalon-i-would-prefer-islamic-state-to-iran-in-syria/
+  6) http://anadoluturkhaber.net/TR/Detail/Truth-Finally-Coming-Out-Israeli-Intelligence-Chief-%E2%80%9CWe-Do-Not-Want-ISIS-Defeat-In-Syria%EF%BF%BD%EF%BF%BD%C4%9F/16508
+  7) https://www.haaretz.com/israel-news/.premium-israel-just-admitted-arming-anti-assad-syrian-rebels-big-mistake-1.6894850
+  8) https://network.aljazeera.net/pressroom/former-mossad-director-efraim-halevy-defends-israeli-medical-assistance-al-nusra-front
+  9) https://www.bbc.com/news/world-europe-50286829
+  10) https://www.amnesty.org/en/latest/news/2017/12/iraq-new-reports-place-mosul-civilian-death-toll-at-more-than-ten-times-official-estimates/
+  11) https://www.aa.com.tr/en/americas/105-civilians-killed-in-us-airstrike-in-mosul-/826360
+  12) https://www.amnesty.org/en/latest/news/2019/04/syria-unprecedented-investigation-reveals-us-led-coalition-killed-more-than-1600-civilians-in-raqqa-death-trap/
+  13) https://en.wikipedia.org/wiki/Russian_military_intervention_in_the_Syrian_civil_war
+  14) https://www.theguardian.com/world/2012/aug/21/syrian-rebels-aleppo-local-hostility
+  15) https://www.bbc.com/news/world-middle-east-23139784
+  16) https://www.oasiscenter.eu/en/last-rebels-aleppo-say-assad-forces-are-burning-people-alive 
+  17) https://www.thedailybeast.com/women-in-aleppo-choose-suicide-over-rape-rebels-report
+  18) https://www.washingtonpost.com/world/national-security/trump-ends-covert-cia-program-to-arm-anti-assad-rebels-in-syria-a-move-sought-by-moscow/2017/07/19/b6821a62-6beb-11e7-96ab-5f38140b38cc_story.html
+  19) https://www.nytimes.com/2021/10/11/world/middleeast/iraq-elections-sadr-shiites.html
+  20) https://www.nytimes.com/2020/02/06/world/middleeast/iraq-iran-hezbollah-evidence.html
+  21) https://www.cnbc.com/2020/01/07/iran-state-tv-says-tehran-has-launched-missiles-at-iraqs-air-base-housing-us-troops.html 
+  22) https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752
+  23) https://www.axios.com/iran-plan-crash-unintentionally-ukrainian-968c5bde-6a4b-4c58-96e4-1878b78e4b0a.html 
+  24) https://www.ice.gov/news/releases/underwear-bomber-umar-farouk-abdulmutallab-sentenced-life
+  25) https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
+  26) https://www.govinfo.gov/content/pkg/CPRT-111SPRT54494/html/CPRT-111SPRT54494.htm
+  27) https://www.mei.edu/resources/transcript/addressing-crisis-yemen-strategies-and-solutions 
+  28) https://foreignpolicy.com/2010/12/07/yemens-double-game-2/
+  29) https://www.csmonitor.com/World/Middle-East/2010/1206/Yemen-diverted-US-counterrorism-aid-meant-to-tackle-Al-Qaeda-WikiLeaks-reveals
+  30) _Enough Already_ by Scott Horton, pg. 238
