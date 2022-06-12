@@ -129,16 +129,17 @@ Reference sheet for the video "The War on Terror"
   13) https://www.nytimes.com/2019/03/10/us/politics/us-somalia-airstrikes-shabab.html
 # Pakistan
   1) https://www.theatlantic.com/international/archive/2009/10/why-matthew-hoh-resigned-from-afghanistan/347756/
-  2) https://abcnews.go.com/Politics/story?id=7188585&page=1
-  3) https://www.theatlantic.com/politics/archive/2016/03/the-obama-administrations-drone-strike-dissembling/473541/
-  4) https://theintercept.com/drone-papers/
-  5) https://www.cfr.org/blog/obamas-final-drone-strike-data
-  6) https://www.aljazeera.com/opinions/2011/11/29/bugsplat-the-ugly-us-drone-war-in-pakistan
-  7) https://www.theguardian.com/us-news/2016/jul/01/obama-continue-signature-strikes-drones-civilian-deaths
-  8) https://www.thebureauinvestigates.com/projects/drone-war/pakistan
-  9) https://www.telegraph.co.uk/news/worldnews/asia/pakistan/1507895/Pakistan-fury-as-CIA-airstrike-on-village-kills-18.html
-  10) https://reprieve.org/wp-content/uploads/sites/2/2020/07/Report_YouNeverDieTwice_2014.pdf
-  11) https://www.bbc.com/news/world-us-canada-24557333
+  2) https://www.theatlantic.com/international/archive/2009/10/why-matthew-hoh-resigned-from-afghanistan/347756/
+  3) https://abcnews.go.com/Politics/story?id=7188585&page=1
+  4) https://www.theatlantic.com/politics/archive/2016/03/the-obama-administrations-drone-strike-dissembling/473541/
+  5) https://theintercept.com/drone-papers/
+  6) https://www.cfr.org/blog/obamas-final-drone-strike-data
+  7) https://www.aljazeera.com/opinions/2011/11/29/bugsplat-the-ugly-us-drone-war-in-pakistan
+  8) https://www.theguardian.com/us-news/2016/jul/01/obama-continue-signature-strikes-drones-civilian-deaths
+  9) https://www.thebureauinvestigates.com/projects/drone-war/pakistan
+  10) https://www.telegraph.co.uk/news/worldnews/asia/pakistan/1507895/Pakistan-fury-as-CIA-airstrike-on-village-kills-18.html
+  11) https://reprieve.org/wp-content/uploads/sites/2/2020/07/Report_YouNeverDieTwice_2014.pdf
+  12) https://www.bbc.com/news/world-us-canada-24557333
 # The Arab Spring
   1) https://www.pbs.org/newshour/world/wikileaks-reveal-what-made-tunisians-revolt
   2) https://theintercept.com/2016/07/14/donald-trump-praises-dictators-but-hillary-clinton-befriends-them/
