@@ -166,18 +166,14 @@ Reference sheet for the video "The War on Terror"
   12) https://timesofmalta.com/articles/view/rebels-accused-of-libya-atrocities.441447
   13) https://www.nytimes.com/2012/12/06/world/africa/weapons-sent-to-libyan-rebels-with-us-approval-fell-into-islamist-hands.html 
   14) https://humanrightsinvestigations.org/2011/07/07/libya-ethnic-cleansing/
-  15) https://www.billboard.com/music/features/kendrick-lamar-meeting-president-obama-6866105/
-  16) https://www.billboard.com/music/features/kendrick-lamar-meeting-president-obama-6866105/
-  17) https://www.washingtonpost.com/news/morning-mix/wp/2017/06/16/obama-describes-his-bond-to-jay-z/
-  18) https://www.cbs8.com/article/sports/lebron-visits-president-barack-obama/509-54d93919-5fe6-464e-adaa-473616936522
-  19) https://observers.france24.com/en/20120308-libyan-militia-locks-prisoners-zoo-cage-eat-gaddafi-flag-tawergha-misrata-former-rebels-reprisals-ntc 
-  20) https://www.cbsnews.com/news/clinton-on-qaddafi-we-came-we-saw-he-died/
-  21) https://theworld.org/stories/2011-10-24/gaddafi-sodomized-video-shows-abuse-frame-frame-graphic
-  22) https://en.wikipedia.org/wiki/Second_Libyan_Civil_War 
-  23) https://www.buzzfeed.com/matthewchampion/obama-blasts-cameron-for-libya-becoming-a-shit-show?utm_term=.rt00VPD3xb
-  24) https://www.salon.com/2015/05/28/the_benghazi_outrage_we_actually_should_be_talking_about/ 
-  25) https://www.bbc.com/news/world-asia-18334377
-  26) https://www.cnn.com/2012/09/12/world/africa/libya-attack-jihadists/index.html
+  15) https://observers.france24.com/en/20120308-libyan-militia-locks-prisoners-zoo-cage-eat-gaddafi-flag-tawergha-misrata-former-rebels-reprisals-ntc 
+  16) https://www.cbsnews.com/news/clinton-on-qaddafi-we-came-we-saw-he-died/
+  17) https://theworld.org/stories/2011-10-24/gaddafi-sodomized-video-shows-abuse-frame-frame-graphic
+  18) https://en.wikipedia.org/wiki/Second_Libyan_Civil_War 
+  19) https://www.buzzfeed.com/matthewchampion/obama-blasts-cameron-for-libya-becoming-a-shit-show?utm_term=.rt00VPD3xb
+  20) https://www.salon.com/2015/05/28/the_benghazi_outrage_we_actually_should_be_talking_about/ 
+  21) https://www.bbc.com/news/world-asia-18334377
+  22) https://www.cnn.com/2012/09/12/world/africa/libya-attack-jihadists/index.html
  # Syria
   1) https://www.wsj.com/articles/SB10000872396390444025204577544891777555840
   2) https://www.theguardian.com/world/2011/aug/31/extraordinary-rendition-backstory
