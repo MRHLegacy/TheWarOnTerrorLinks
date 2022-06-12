@@ -303,7 +303,8 @@ Reference sheet for the video "The War on Terror"
   20) https://www.publichealth.va.gov/docs/exposures/ten-things-to-know-fact-sheet.pdf
   21) https://www.militarytimes.com/news/pentagon-congress/2020/04/22/support-for-full-withdrawal-from-afghanistan-grows-poll/ 
   22) https://watson.brown.edu/costsofwar/ 
-  23) https://www.cnn.com/2019/02/25/politics/harry-reid-dana-bash-cnntv/index.html 
-  24) https://www.bloomberg.com/opinion/articles/2021-09-15/bush-versus-trump-the-futility-of-republican-restraint
-  25) https://www.cnn.com/2021/09/13/politics/george-w-bush-donald-trump-september-11/index.html 
-  26) https://www.msnbc.com/rachel-maddow-show/george-w-bush-condemns-violent-extremists-trump-pushes-back-n1279125
+  23) https://www.c-span.org/presidentsurvey2021/?page=overall
+  24) https://www.cnn.com/2019/02/25/politics/harry-reid-dana-bash-cnntv/index.html 
+  25) https://www.bloomberg.com/opinion/articles/2021-09-15/bush-versus-trump-the-futility-of-republican-restraint
+  26) https://www.cnn.com/2021/09/13/politics/george-w-bush-donald-trump-september-11/index.html 
+  27) https://www.msnbc.com/rachel-maddow-show/george-w-bush-condemns-violent-extremists-trump-pushes-back-n1279125
