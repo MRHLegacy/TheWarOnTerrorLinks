@@ -314,4 +314,3 @@ Reference sheet for the video "The War on Terror"
   27) https://www.bloomberg.com/opinion/articles/2021-09-15/bush-versus-trump-the-futility-of-republican-restraint
   28) https://www.cnn.com/2021/09/13/politics/george-w-bush-donald-trump-september-11/index.html 
   29) https://www.msnbc.com/rachel-maddow-show/george-w-bush-condemns-violent-extremists-trump-pushes-back-n1279125
-  30) 
