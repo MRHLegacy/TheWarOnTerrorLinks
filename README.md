@@ -284,3 +284,34 @@ Reference sheet for the video "The War on Terror"
   38) https://theintercept.com/2017/01/30/obama-killed-a-16-year-old-american-in-yemen-trump-just-killed-his-8-year-old-sister/
   39) https://www.brookings.edu/blog/order-from-chaos/2021/09/16/bidens-broken-promise-on-yemen/
   40) https://original.antiwar.com/ted_galen_carpenter/2022/01/24/bidens-continuing-shameful-policy-regarding-yemen/
+# Conclusion
+  1) https://www.middleeasteye.net/news/manchester-bomber-probably-fought-libya-inquiry-hears
+  2) https://nypost.com/2017/05/24/concert-bomber-reportedly-wanted-revenge-for-muslim-deaths-in-syria/
+  3) https://www.history.com/this-day-in-history/army-major-kills-13-people-in-fort-hood-shooting-spree
+  4) https://time.com/4552365/omar-mateen-orlando-nightclub-shooting-911-calls/
+  5) https://www.salon.com/2016/06/15/orlando_shooter_said_attack_was_revenge_for_u_s_bombing_of_afghanistan_survivor_recalls/
+  6) https://abcnews.go.com/US/orlando-shooter-facebook-now-taste-isis-vengeance/story?id=39875518
+  7) https://www.orlandosentinel.com/news/pulse-orlando-nightclub-shooting/os-transcripts-pulse-shooter-omar-mateen-police-20160923-htmlstory.html 
+  8) https://www.orlandosentinel.com/news/pulse-orlando-nightclub-shooting/os-omar-mateen-pulse-911-calls-20161031-story.html
+  9) https://theintercept.com/2018/03/05/as-the-trial-of-omar-mateens-wife-begins-new-evidence-undermines-beliefs-about-the-pulse-massacre-including-motive/ 
+  10) https://abcnews.go.com/US/31-orlando-police-officers-sued-response-pulse-nightclub/story?id=55714401
+  11) https://www.nytimes.com/2019/02/13/us/pulse-nightclub-orlando-officer-gunfire.html
+  12) https://www.dailymail.co.uk/news/article-3696410/Man-attacks-21-people-AXE-train-Germany-shot-police.html 
+  13) https://trial-and-terror.theintercept.com/people/fabc7e8a-9de4-47fc-b03b-357acf5f6a1e
+  14) https://www.washingtonpost.com/national-security/2019/12/07/pensacola-shooting-shooter-updates/ 
+  15) https://web.archive.org/web/20191206212201/https:/twitter.com/M7MD_SHAMRANI 
+  16) https://www.govinfo.gov/content/pkg/DCPD-201700382/html/DCPD-201700382.htm
+  17) https://www.muckrock.com/news/archives/2016/sep/14/CVE-military-presence/
+  18) https://www.newyorker.com/magazine/2015/06/22/the-inside-war
+  19) https://www.lawfareblog.com/despite-denials-michael-flynn-discussed-sanctions-calls-russian-ambassador
+  20) https://www.npr.org/sections/thetwo-way/2017/02/15/515437291/intelligence-official-transcripts-of-flynns-calls-dont-show-criminal-wrongdoing
+  21) https://www.aa.com.tr/en/world/study-says-us-troop-suicides-go-beyond-30-000-since-2001/2282247 
+  22) https://www.washingtonpost.com/politics/biden-beau-burn-pits/2021/11/27/894b382a-4973-11ec-b8d9-232f4afe4d9b_story.html
+  23) https://www.publichealth.va.gov/docs/exposures/ten-things-to-know-fact-sheet.pdf
+  24) https://www.militarytimes.com/news/pentagon-congress/2020/04/22/support-for-full-withdrawal-from-afghanistan-grows-poll/ 
+  25) https://watson.brown.edu/costsofwar/ 
+  26) https://www.cnn.com/2019/02/25/politics/harry-reid-dana-bash-cnntv/index.html 
+  27) https://www.bloomberg.com/opinion/articles/2021-09-15/bush-versus-trump-the-futility-of-republican-restraint
+  28) https://www.cnn.com/2021/09/13/politics/george-w-bush-donald-trump-september-11/index.html 
+  29) https://www.msnbc.com/rachel-maddow-show/george-w-bush-condemns-violent-extremists-trump-pushes-back-n1279125
+  30) 
