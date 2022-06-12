@@ -143,4 +143,40 @@ Reference sheet for the video "The War on Terror"
   1) https://www.pbs.org/newshour/world/wikileaks-reveal-what-made-tunisians-revolt
   2) https://theintercept.com/2016/07/14/donald-trump-praises-dictators-but-hillary-clinton-befriends-them/
   3) https://www.nytimes.com/2011/02/12/world/middleeast/12egypt.html
-  4) 
+  4) https://www.jadaliyya.com/Details/23636 
+  5) https://en.wikipedia.org/wiki/2011%E2%80%9312_Egyptian_parliamentary_election
+  6) https://www.nytimes.com/2019/04/30/world/middleeast/is-the-muslim-brotherhood-terrorist.html
+  7) https://www.brookings.edu/opinions/saudi-arabia-cheers-the-coup-in-egypt/
+  8) https://www.nytimes.com/2013/07/04/world/middleeast/egypt.html
+  9) https://www.washingtonpost.com/news/monkey-cage/wp/2014/08/22/why-egypts-military-orchestrated-a-massacre/ 
+  10) https://www.washingtontimes.com/news/2013/aug/2/john-kerry-egypt-army-was-only-restoring-democracy/
+  11) https://web.archive.org/web/20190503010518/https://www.esohr.org/en/?p=2196
+# Libya
+  1) https://www.reuters.com/article/us-libya-prisoner-death/libya-reports-prison-suicide-of-top-qaeda-man-idUSTRE54A4WU20090511
+  2) https://www.rollingstone.com/politics/politics-news/senators-sucked-up-to-qaddafi-now-call-for-his-head-78303/
+  3) https://www.washingtontimes.com/news/2015/jan/28/hillary-clinton-undercut-on-libya-war-by-pentagon-/
+  4) http://content.time.com/time/world/article/0,8599,2060412,00.html
+  5) https://www.newyorker.com/magazine/2019/09/16/the-moral-logic-of-humanitarian-intervention
+  6) https://www.thenation.com/article/archive/obamas-women-advisers-pushed-war-against-libya/
+  7) https://www.cato.org/commentary/obama-administration-destroyed-libya-could-trump-make-it-worse#
+  8) https://obamawhitehouse.archives.gov/the-press-office/2011/03/18/remarks-President-situation-libya
+  9) https://economictimes.indiatimes.com/news/politics-and-nation/libya-crisis-may-be-exploited-by-al-qaeda-us-senators/articleshow/7633381.cms?from=mdr
+  10) https://foreignpolicy.com/2011/04/07/was-there-going-to-be-a-benghazi-massacre/
+  11) https://www.wsj.com/articles/SB10001424053111903895904576547101159155100
+  12) https://timesofmalta.com/articles/view/rebels-accused-of-libya-atrocities.441447
+  13) https://www.nytimes.com/2012/12/06/world/africa/weapons-sent-to-libyan-rebels-with-us-approval-fell-into-islamist-hands.html 
+  14) https://humanrightsinvestigations.org/2011/07/07/libya-ethnic-cleansing/
+  15) https://www.billboard.com/music/features/kendrick-lamar-meeting-president-obama-6866105/
+  16) https://www.billboard.com/music/features/kendrick-lamar-meeting-president-obama-6866105/
+  17) https://www.washingtonpost.com/news/morning-mix/wp/2017/06/16/obama-describes-his-bond-to-jay-z/
+  18) https://www.cbs8.com/article/sports/lebron-visits-president-barack-obama/509-54d93919-5fe6-464e-adaa-473616936522
+  19) https://observers.france24.com/en/20120308-libyan-militia-locks-prisoners-zoo-cage-eat-gaddafi-flag-tawergha-misrata-former-rebels-reprisals-ntc 
+  20) https://www.cbsnews.com/news/clinton-on-qaddafi-we-came-we-saw-he-died/
+  21) https://theworld.org/stories/2011-10-24/gaddafi-sodomized-video-shows-abuse-frame-frame-graphic
+  22) https://en.wikipedia.org/wiki/Second_Libyan_Civil_War 
+  23) https://www.buzzfeed.com/matthewchampion/obama-blasts-cameron-for-libya-becoming-a-shit-show?utm_term=.rt00VPD3xb
+  24) https://www.salon.com/2015/05/28/the_benghazi_outrage_we_actually_should_be_talking_about/ 
+  25) https://www.bbc.com/news/world-asia-18334377
+  26) https://www.cnn.com/2012/09/12/world/africa/libya-attack-jihadists/index.html
+ # Syria
+  1) 
