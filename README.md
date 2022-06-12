@@ -112,3 +112,35 @@ Reference sheet for the video "The War on Terror"
   44) https://www.seattletimes.com/nation-world/former-cellmate-says-al-zarqawi-was-tortured-in-jordanian-prison/
   45) https://theintercept.com/2016/08/25/u-s-military-now-says-isis-leader-was-held-in-notorious-abu-ghraib-prison/
   46) https://www.mcclatchydc.com/news/nation-world/world/article24511081.html
+
+# Somalia
+  1) https://www.thenation.com/article/archive/in-the-valley-of-death-somalilands-forgotten-genocide/
+  2) http://news.bbc.co.uk/2/hi/africa/3865595.stm
+  3) https://www.peterleeson.com/Better_Off_Stateless.pdf
+  4) http://news.bbc.co.uk/1/hi/world/africa/4020259.stm
+  5) https://www.jstor.org/stable/40761688?seq=1#metadata_info_tab_contents
+  6) https://fee.org/articles/somalia-failed-state-economic-success/
+  7) https://www.washingtonpost.com/wp-dyn/content/article/2006/05/16/AR2006051601625.html
+  8) https://www.nytimes.com/2006/06/08/world/africa/08intel.html
+  9) https://archive.fo/WwM6
+  10) https://usatoday30.usatoday.com/news/world/2007-01-07-ethiopia_x.htm
+  11) https://cdn.cfr.org/sites/default/files/pdf/2010/02/Somalia_CSR52.pdf
+  12) https://www.bbc.com/news/world-africa-22380352
+  13) https://www.nytimes.com/2019/03/10/us/politics/us-somalia-airstrikes-shabab.html
+# Pakistan
+  1) https://www.theatlantic.com/international/archive/2009/10/why-matthew-hoh-resigned-from-afghanistan/347756/
+  2) https://abcnews.go.com/Politics/story?id=7188585&page=1
+  3) https://www.theatlantic.com/politics/archive/2016/03/the-obama-administrations-drone-strike-dissembling/473541/
+  4) https://theintercept.com/drone-papers/
+  5) https://www.cfr.org/blog/obamas-final-drone-strike-data
+  6) https://www.aljazeera.com/opinions/2011/11/29/bugsplat-the-ugly-us-drone-war-in-pakistan
+  7) https://www.theguardian.com/us-news/2016/jul/01/obama-continue-signature-strikes-drones-civilian-deaths
+  8) https://www.thebureauinvestigates.com/projects/drone-war/pakistan
+  9) https://www.telegraph.co.uk/news/worldnews/asia/pakistan/1507895/Pakistan-fury-as-CIA-airstrike-on-village-kills-18.html
+  10) https://reprieve.org/wp-content/uploads/sites/2/2020/07/Report_YouNeverDieTwice_2014.pdf
+  11) https://www.bbc.com/news/world-us-canada-24557333
+# The Arab Spring
+  1) https://www.pbs.org/newshour/world/wikileaks-reveal-what-made-tunisians-revolt
+  2) https://theintercept.com/2016/07/14/donald-trump-praises-dictators-but-hillary-clinton-befriends-them/
+  3) https://www.nytimes.com/2011/02/12/world/middleeast/12egypt.html
+  4) 
