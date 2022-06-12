@@ -243,10 +243,44 @@ Reference sheet for the video "The War on Terror"
   21) https://www.cnbc.com/2020/01/07/iran-state-tv-says-tehran-has-launched-missiles-at-iraqs-air-base-housing-us-troops.html 
   22) https://en.wikipedia.org/wiki/Ukraine_International_Airlines_Flight_752
   23) https://www.axios.com/iran-plan-crash-unintentionally-ukrainian-968c5bde-6a4b-4c58-96e4-1878b78e4b0a.html 
-  24) https://www.ice.gov/news/releases/underwear-bomber-umar-farouk-abdulmutallab-sentenced-life
-  25) https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
-  26) https://www.govinfo.gov/content/pkg/CPRT-111SPRT54494/html/CPRT-111SPRT54494.htm
-  27) https://www.mei.edu/resources/transcript/addressing-crisis-yemen-strategies-and-solutions 
-  28) https://foreignpolicy.com/2010/12/07/yemens-double-game-2/
-  29) https://www.csmonitor.com/World/Middle-East/2010/1206/Yemen-diverted-US-counterrorism-aid-meant-to-tackle-Al-Qaeda-WikiLeaks-reveals
-  30) _Enough Already_ by Scott Horton, pg. 238
+ # Yemen
+  1) https://www.ice.gov/news/releases/underwear-bomber-umar-farouk-abdulmutallab-sentenced-life
+  2) https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
+  3) https://www.govinfo.gov/content/pkg/CPRT-111SPRT54494/html/CPRT-111SPRT54494.htm
+  4) https://www.mei.edu/resources/transcript/addressing-crisis-yemen-strategies-and-solutions 
+  5) https://foreignpolicy.com/2010/12/07/yemens-double-game-2/
+  6) https://www.csmonitor.com/World/Middle-East/2010/1206/Yemen-diverted-US-counterrorism-aid-meant-to-tackle-Al-Qaeda-WikiLeaks-reveals
+  7) _Enough Already_ by Scott Horton, pg. 238
+  8) https://2009-2017.state.gov/secretary/20092013clinton/rm/2012/02/184310.htm
+  9) https://www.npr.org/2012/02/21/147205502/yemen-election-one-person-one-vote-one-candidate
+  10) https://www.nytimes.com/2015/03/29/world/middleeast/saudi-arabia-evacuates-diplomats-from-yemeni-city-as-houthi-advance-continues.html 
+  11) https://www.wsj.com/articles/in-strategic-shift-u-s-draws-closer-to-yemeni-rebels-1422576308
+  12) https://www.nytimes.com/2015/02/11/world/middleeast/yemen-houthi-leader-pledges-to-pursue-power-sharing-accord.html
+  13) https://www.aljazeera.com/news/2015/2/6/yemens-houthis-form-own-government-in-sanaa
+  14) https://foreignpolicy.com/2014/09/22/houthi-rebels-sign-peace-deal-to-form-new-yemeni-government/
+  15) https://www.csmonitor.com/World/Security-Watch/terrorism-security/2015/0326/Yemen-crisis-Saudi-Arabia-launches-airstrikes-to-halt-Houthi-rebels
+  16) https://www.latimes.com/world/middleeast/la-fg-us-saudis-20150417-story.html 
+  17) https://www.theguardian.com/uk-news/2019/mar/27/serious-questions-over-sas-involvement-in-yemen-war
+  18) https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/yemen-cannot-afford-wait 
+  19) https://www.washingtonpost.com/world/national-security/cia-concludes-saudi-crown-prince-ordered-jamal-khashoggis-assassination/2018/11/16/98c89fe6-e9b2-11e8-a939-9469f1166f9d_story.html
+  20) https://www.theguardian.com/global-development/2018/dec/04/mohammed-bin-salman-should-be-prosecuted-over-the-yemen-conflict
+  21) https://www.thedrive.com/the-war-zone/25762/trump-said-he-found-the-greatest-room-hed-ever-seen-deep-in-the-pentagon-heres-what-he-meant
+  22) https://www.huffpost.com/entry/iran-houthis-yemen_n_7101456
+  23) https://english.alarabiya.net/News/middle-east/2015/03/28/Obama-calls-Saudi-king-on-collective-Yemen-goal-
+  24) https://www.cnn.com/interactive/2019/02/middleeast/yemen-lost-us-arms/ 
+  25) https://www.bostonglobe.com/news/world/2015/06/09/qaeda-trying-shore-support-adds-governance-its-strategy/ZgxPF5Dj5Khz9n3ItnlKsO/story.html
+  26) https://www.aljazeera.com/news/2019/2/5/saudi-arabia-uae-gave-us-arms-to-al-qaeda-linked-groups-report 
+  27) https://www.washingtonpost.com/news/checkpoint/wp/2016/09/19/saudi-arabia-appears-to-be-using-u-s-supplied-white-phosphorus-in-its-war-in-yemen/
+  28) https://www.hrw.org/news/2016/10/13/yemen-saudi-led-funeral-attack-apparent-war-crime 
+  29) https://www.theguardian.com/world/2018/aug/19/us-supplied-bomb-that-killed-40-children-school-bus-yemen
+  30) https://merip.org/2019/03/the-saudi-coalitions-food-war-on-yemen/
+  31) https://www.hrw.org/news/2017/12/07/yemen-coalition-blockade-imperils-civilians 
+  32) https://www.outbreakobservatory.org/outbreakthursday-1/11/30/2017/yemen-first-cholera-now-diphtheria
+  33) https://www.bbc.com/news/world-middle-east-46261983
+  34) https://news.un.org/en/story/2020/12/1078972
+  35) https://www.npr.org/2021/01/11/936627548/trump-administration-moves-to-brand-houthis-in-yemen-a-terrorist-group
+  36) https://www.theguardian.com/world/2017/dec/04/former-yemen-president-saleh-killed-in-fresh-fighting
+  37) https://www.reuters.com/article/uk-usa-yemen-qaeda-idUKKBN15D094?edition-redirect=uk
+  38) https://theintercept.com/2017/01/30/obama-killed-a-16-year-old-american-in-yemen-trump-just-killed-his-8-year-old-sister/
+  39) https://www.brookings.edu/blog/order-from-chaos/2021/09/16/bidens-broken-promise-on-yemen/
+  40) https://original.antiwar.com/ted_galen_carpenter/2022/01/24/bidens-continuing-shameful-policy-regarding-yemen/
